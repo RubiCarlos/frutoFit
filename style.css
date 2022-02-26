@@ -1,0 +1,64 @@
+
+#capa{
+    width: 100%;
+    margin-top: -250px;
+}
+
+#logo{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 50px;
+    position: relative;
+}
+
+#subtitulo{
+    width: 100%;
+    margin-top: -240px;
+    position: relative;
+}
+
+#botoes{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 570px;
+    margin-top: -950px;
+    margin-left: 700px;
+
+}
+
+a.link{
+    color: #47703C;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: grey 1px 0.3px;
+  }
+
+  #redesocial{
+      width: 120px;
+      margin-left: 900px;
+    }
+
+    #rodape{
+        width: 100%;
+        margin-top: -250px;
+        position: relative;
+    }
+
+    #fotosobre{
+        margin-top: 880px;
+    }
+
+    #cardapio{
+        margin-top: -5px;
+    }
+
+    #atalho{
+        margin-left: 200px;
+    }
+
+    #blog{
+        
+    }
+  
